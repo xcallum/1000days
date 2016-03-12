@@ -1,0 +1,35 @@
+* {
+  text-align:center;
+  font-family:Futura;
+}
+
+h1 {
+   font-family:Verdana;
+   color:#4280b8;
+}
+
+#main {
+  background-color:#65d0cd;
+  margin:80px;
+  padding-top:30px;
+  padding-bottom:60px;
+}
+
+#bg {
+  background-color:#a1c2c9;
+}
+
+.pic {
+  height:500px;
+}
+
+#p1,#p2,#p3,#p4 {
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+#love {
+  margin-top:60px;
+  font-size:12px;
+  color:#833742
+}
